@@ -1,0 +1,6 @@
+<xml xmlns="https://developers.google.com/blockly/xml" id="toolbox" style="display: none">
+  <category name="{{TOUCHPAD}}" colour="#e63022" icon="th">
+    <block type="touchpad_checkkeypad"/>
+    <block type="touchpad_istouch"/>
+  </category>
+</xml>
